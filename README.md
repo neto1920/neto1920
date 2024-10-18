@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @neto1920
-- 👀 I’m interested in Frontend
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in Network Analyst
+- 🌱 I’m currently learning CISCO | FORTINET 
 - 📫 How to reach me rafael_neto20@hotmail.com
 
 <!---
